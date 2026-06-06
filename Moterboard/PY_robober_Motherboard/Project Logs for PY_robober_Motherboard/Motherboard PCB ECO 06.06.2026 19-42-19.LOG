@@ -1,0 +1,13 @@
+Added Component: Designator=B1(Button)
+Added Component: Designator=R1(0402 res)
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=D3-0
+Added Pin To Net: NetName=NetB1_1 Pin=R1-0
+Added Net: Name=NetB1_1
+Added Member To Class: ClassName=Schematic Member=Component B1 Кнопка
+Added Member To Class: ClassName=Schematic Member=Component C2 Конденсатор
+Added Member To Class: ClassName=Schematic Member=Component D3 PY32F002B
+Added Member To Class: ClassName=Schematic Member=Component R1 Резистор
+Added Member To Class: ClassName=Schematic Member=Component X1 4х1 папа
