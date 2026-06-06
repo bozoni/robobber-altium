@@ -1,0 +1,36 @@
+Added Component: Designator=X?(NEMA17 разъём)
+Added Pin To Net: NetName=VCC Pin=X?-1
+Added Pin To Net: NetName=GND Pin=X?-2
+Added Pin To Net: NetName=MISO Pin=D?-6
+Added Pin To Net: NetName=MISO Pin=D?-13
+Added Net: Name=MISO
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=D?-12
+Added Pin To Net: NetName=NetC?_1 Pin=X?-3
+Added Net: Name=NetC?_1
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetD?_0 Pin=D?-0
+Added Pin To Net: NetName=NetD?_0 Pin=D?-8
+Added Net: Name=NetD?_0
+Added Pin To Net: NetName=NetD?_7 Pin=D?-7
+Added Pin To Net: NetName=NetD?_7 Pin=D?-19
+Added Net: Name=NetD?_7
+Added Pin To Net: NetName=NetD?_9 Pin=D?-9
+Added Pin To Net: NetName=NetD?_9 Pin=D?-17
+Added Net: Name=NetD?_9
+Added Pin To Net: NetName=RST Pin=D?-11
+Added Pin To Net: NetName=RST Pin=D?-18
+Added Net: Name=RST
+Added Pin To Net: NetName=SCLK Pin=D?-8
+Added Pin To Net: NetName=SCLK Pin=D?-9
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SWC Pin=D?-14
+Added Pin To Net: NetName=SWC Pin=X?-3
+Added Net: Name=SWC
+Added Pin To Net: NetName=SWD Pin=D?-4
+Added Pin To Net: NetName=SWD Pin=X?-4
+Added Net: Name=SWD
+Added Member To Class: ClassName=Schematic Member=Component C? Конденсатор
+Added Member To Class: ClassName=Schematic Member=Component D? XL-1278-SMT(LoRa)
+Added Member To Class: ClassName=Schematic Member=Component D? PY32F002B
+Added Member To Class: ClassName=Schematic Member=Component X? 4х1 папа
