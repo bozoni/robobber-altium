@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R1 Old Footprint=0402 res New Footprint=0603 res
+Change Component Footprint: Designator=R2 Old Footprint=0402 res New Footprint=0603 res
+Change Component Footprint: Designator=C1 Old Footprint=0603 cap New Footprint=0805 cap
+Change Class Name : Old Net Name=—хема1 New Net Name=—хема платы энкодера
